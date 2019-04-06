@@ -1,0 +1,4 @@
+#BLOCK AD SUBDOMAINS
+^(?i)(ad|ads|adserver|adsserver|ADVERTISEMENT)*(\.(\*|[\w\d]+(-[\w\d]+)*))(\.(\*|[\w\d]+(-[\w\d]+)*))$
+
+#Pass at DGA Block
