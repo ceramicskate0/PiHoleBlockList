@@ -3,3 +3,9 @@
 
 #DGA Blocks
 (?=\w*\d)(?=\w*[a-zA-Z])\w{7,12}\.(?=\w*[a-zA-Z])\w{2,5}
+
+#Block chars in last char in domain (domain impersanation idea)
+^[a-zA-Z0-9]+[a-zA-Z0-9-._]*[a-zA-Z0-9]+$
+
+#Check whether each part of the domain is not longer than 63 characters, and allow internationalized domain names using the punycode notation:
+\b((?=[a-z0-9-]{1,63}\.)(xn--)?[a-z0-9]+(-[a-z0-9]+)*\.)+[a-z]{2,63}\b
