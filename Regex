@@ -1,5 +1,5 @@
 #BLOCK AD SUBDOMAINS
-^(?i)(ad|ads|adserver|adsserver|ADVERTISEMENT)*(\.(\*|[\w\d]+(-[\w\d]+)*))(\.(\*|[\w\d]+(-[\w\d]+)*))$
+^(?i)(ad|ads|adserver|adsserver|ADVERTISEMENT|telem|telemetry|adm|adms|tele)*(\.(\*|[\w\d]+(-[\w\d]+)*))(\.(\*|[\w\d]+(-[\w\d]+)*))$
 
 #DGA Blocks
 (?=\w*\d)(?=\w*[a-zA-Z])\w{7,12}\.(?=\w*[a-zA-Z])\w{2,5}
