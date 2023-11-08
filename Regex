@@ -9,3 +9,302 @@
 
 #Check whether each part of the domain is not longer than 63 characters, and allow internationalized domain names using the punycode notation:
 \b((?=[a-z0-9-]{1,63}\.)(xn--)?[a-z0-9]+(-[a-z0-9]+)*\.)+[a-z]{2,63}\b
+
+^(.+[_.-])?telemetry[_.-]	
+	
+	
+	^adtrack(er|ing)?[0-9]*[_.-]	
+	
+	
+	^advert(s|is(ing|ements?))?[0-9]*[_.-]	
+	
+	
+	^analytics?[_.-]	
+	
+	
+	^banners?[_.-]	
+	
+	
+	^beacons?[0-9]*[_.-]	
+	
+	
+	^mads\.	
+	
+	
+	^pixels?[-.]	
+	
+	
+	^stat(s|istics)?[0-9]*[_.-]	
+	
+	
+	(\.|^)doubleclick\.net$	
+	
+	
+	(\.|^)logs\.roku\.com$	
+	
+	
+	(^|\.)biz$	
+	
+	
+	(\.|^)zip$	
+	
+	
+	(\.|^)at$	
+	
+	
+	(\.|^)asia$	
+	
+	
+	(\.|^)cn$	
+	
+	
+	(\.|^)ru$	
+	
+	
+	(\.|^)cz$	
+	
+	
+	(\.|^)cc$	
+	
+	
+	(\.|^)br$	
+	
+	
+	(\.|^)bg$	
+	
+	
+	(\.|^)cash$	
+	
+	
+	(\.|^)crypto$	
+	
+	
+	(\.|^)bi$	
+	
+	
+	(\.|^)ac$	
+	
+	
+	(\.|^)adnxs\.com$	
+	
+	
+	(\.|^)ae$	
+	
+	
+	(\.|^)xyz$	
+	
+	
+	(\.|^)cx$	
+	
+	
+	(\.|^)cl$	
+	
+	
+	(\.|^)de$	
+	
+	
+	(\.|^)fr$	
+	
+	
+	(\.|^)hu$	
+	
+	
+	(\.|^)je$	
+	
+	
+	(\.|^)jp$	
+	
+	
+	(\.|^)xxx$	
+	
+	
+	(\.|^)ua$	
+	
+	
+	(\.|^)ug$	
+	
+	
+	(\.|^)co$	
+	
+	
+	(\.|^)link$	
+	
+	
+	(\.|^)top$	
+	
+	
+	(\.|^)online$	
+	
+	
+	(\.|^)life$	
+	
+	
+	(\.|^)icu$	
+	
+	
+	(\.|^)click$	
+	
+	
+	(\.|^)site$	
+	
+	
+	(\.|^)nl$	
+	
+	
+	^track(ers?|ing)?[0-9]*[-.]	
+	
+	
+	^traff(ic)?[-.]	
+	
+	
+	(\.|^)win$	
+	
+	
+	(\.|^)mobi$	
+	
+	
+	(\.|^)bid$	
+	
+	
+	(\.|^)vip$	
+	
+	
+	(\.|^)lol$	
+	
+	
+	(\.|^)signaler-pa\.clients6\.google\.com$	
+	
+	
+	(\.|^)cd$	
+	
+	
+	(\.|^)quest$	
+	
+	
+	(\.|^)casino$	
+	
+	
+	(\.|^)zw$	
+	
+	
+	(\.|^)poker$	
+	
+	
+	(\.|^)porn$	
+	
+	
+	(\.|^)ml$	
+	
+	
+	(\.|^)ga$	
+	
+	
+	(\.|^)cf$	
+	
+	
+	(\.|^)club$	
+	
+	
+	(\.|^)work$	
+	
+	
+	(\.|^)pw$	
+	
+	
+	(\.|^)ws$	
+	
+	
+	(\.|^)bd$	
+	
+	
+	(\.|^)sbs$	
+	
+	
+	(\.|^)am$	
+	
+	
+	(\.|^)support$	
+	
+	
+	(\.|^)date$	
+	
+	
+	(\.|^)email$	
+	
+	
+	(\.|^)cm$	
+	
+	
+	(\.|^)gq$	
+	
+	
+	(\.|^)ly$	
+	
+	
+	^(.+[_.-])?telem[_.-]	
+	
+	
+	^(.+[_.-])?advert[_.-]	
+	
+	
+	^(.+[_.-])?track[_.-]	
+	
+	
+	^pixel?[-.]	
+	
+	
+	^(.+[_.-])?log[_.-]	
+	
+	
+	(\.|^)bit\.ly$	
+	
+	
+	(\.|^)website$	
+	
+	
+	(\.|^)cyou$	
+	
+	
+	(\.|^)vg$	
+	
+	
+	(\.|^)cloud$	
+	
+	
+	(\.|^)ink$	
+	
+	
+	(\.|^)store$	
+	
+	
+	(\.|^)tr$	
+	
+	
+	(\.|^)live$	
+	
+	
+	(\.|^)monster$	
+	
+	
+	(\.|^)np$	
+	
+	
+	(\.|^)shop$	
+	
+	
+	(\.|^)rest$	
+	
+	
+	(\.|^)wtf$	
+	
+	
+	(\.|^)boston$	
+	
+	
+	(\.|^)wiki$	
+	
+	
+	(\.|^)degree$	
+	
+	
+	(\.|^)buzz$
